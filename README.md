@@ -1,2 +1,2 @@
 # LinkedList_InsertionSort
-Insertion Sort on Linked List
+Insertion Sort on Generic Linked List using C#.
